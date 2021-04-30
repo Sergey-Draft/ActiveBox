@@ -25,8 +25,7 @@ $(window).on("scroll load resize", function() {
         }
         
     };    
-
-   
+    
 /*     Scroll*/
 $('[data-scroll]').on('click', function(event) {
    event.preventDefault();
@@ -34,7 +33,6 @@ $('[data-scroll]').on('click', function(event) {
     let elementId = $(this).data('scroll');
     let elementOffSet = $(elementId).offset().top;
     
-
 $('html, body').animate({scrollTop : elementOffSet - 70}, 700);
        
 });
