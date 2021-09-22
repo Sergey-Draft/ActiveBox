@@ -1,5 +1,6 @@
 # ActiveBox
-### A single-page website created using a pdf template
+### https://sergey-draft.github.io/ActiveBox/
+#### - One page site created from a psd template 
 ----
 
 <div>
